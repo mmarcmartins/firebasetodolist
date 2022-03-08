@@ -28,3 +28,4 @@ VITE_APPID=[your_app_id]
 - https://vitejs.dev/guide/comparisons.html
 - https://firebase.google.com/
 - https://testing-library.com/docs/react-testing-library/intro/
+- https://kentcdodds.com/blog/testing-implementation-details
