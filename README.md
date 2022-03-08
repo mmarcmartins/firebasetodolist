@@ -22,3 +22,9 @@ VITE_APPID=[your_app_id]
 
 # How to deploy it
 ### i'd recommend you to deploy this using netlify, but there are another options, [please follow this link](https://vitejs.dev/guide/static-deploy.html#netlify).
+
+# References links
+- https://vitejs.dev/
+- https://vitejs.dev/guide/comparisons.html
+- https://firebase.google.com/
+- https://testing-library.com/docs/react-testing-library/intro/
